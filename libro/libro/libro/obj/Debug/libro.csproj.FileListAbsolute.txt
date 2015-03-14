@@ -1,0 +1,105 @@
+G:\AppMovil\libro\libro\Bin\Debug\Assets\ApplicationIcon.png
+G:\AppMovil\libro\libro\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+G:\AppMovil\libro\libro\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+G:\AppMovil\libro\libro\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+G:\AppMovil\libro\libro\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+G:\AppMovil\libro\libro\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+G:\AppMovil\libro\libro\Bin\Debug\libro.dll
+G:\AppMovil\libro\libro\Bin\Debug\libro.pdb
+G:\AppMovil\libro\libro\Bin\Debug\resources.pri
+G:\AppMovil\libro\libro\Bin\Debug\AppxManifest.xml
+G:\AppMovil\libro\libro\Bin\Debug\libro.build.appxrecipe
+G:\AppMovil\libro\libro\Bin\Debug\Properties\WMAppManifest.xml
+G:\AppMovil\libro\libro\Bin\Debug\AppManifest.xaml
+G:\AppMovil\libro\libro\Bin\Debug\libro_Debug_AnyCPU.xap
+G:\AppMovil\libro\libro\obj\Debug\App.g.cs
+G:\AppMovil\libro\libro\obj\Debug\MainPage.g.cs
+G:\AppMovil\libro\libro\obj\Debug\libro.g.resources
+G:\AppMovil\libro\libro\obj\Debug\libro.Resources.AppResources.resources
+G:\AppMovil\libro\libro\obj\Debug\libro.csproj.GenerateResource.Cache
+G:\AppMovil\libro\libro\obj\Debug\libro.dll
+G:\AppMovil\libro\libro\obj\Debug\libro.pdb
+G:\AppMovil\libro\libro\obj\Debug\priconfig.xml
+G:\AppMovil\libro\libro\obj\Debug\priconfig.xml.intermediate
+G:\AppMovil\libro\libro\obj\Debug\layout.resfiles
+G:\AppMovil\libro\libro\obj\Debug\layout.resfiles.intermediate
+G:\AppMovil\libro\libro\obj\Debug\resources.resfiles
+G:\AppMovil\libro\libro\obj\Debug\resources.resfiles.intermediate
+G:\AppMovil\libro\libro\obj\Debug\pri.resfiles
+G:\AppMovil\libro\libro\obj\Debug\pri.resfiles.intermediate
+G:\AppMovil\libro\libro\obj\Debug\qualifiers.txt
+G:\AppMovil\libro\libro\obj\Debug\qualifiers.txt.intermediate
+G:\AppMovil\libro\libro\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+G:\AppMovil\libro\libro\obj\Debug\ProjectArchitectures.txt
+G:\AppMovil\libro\libro\obj\Debug\MDILProjectFiles.xml
+G:\AppMovil\libro\libro\obj\Debug\XapCacheFile.xml
+G:\AppMovil\libro\libro\obj\Debug\librosPagina.g.cs
+D:\UNIVERSIDAD\App Movil\libro\libro\Bin\Debug\Assets\ApplicationIcon.png
+D:\UNIVERSIDAD\App Movil\libro\libro\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+D:\UNIVERSIDAD\App Movil\libro\libro\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+D:\UNIVERSIDAD\App Movil\libro\libro\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+D:\UNIVERSIDAD\App Movil\libro\libro\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+D:\UNIVERSIDAD\App Movil\libro\libro\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+D:\UNIVERSIDAD\App Movil\libro\libro\Bin\Debug\libro.dll
+D:\UNIVERSIDAD\App Movil\libro\libro\Bin\Debug\libro.pdb
+D:\UNIVERSIDAD\App Movil\libro\libro\Bin\Debug\resources.pri
+D:\UNIVERSIDAD\App Movil\libro\libro\Bin\Debug\AppxManifest.xml
+D:\UNIVERSIDAD\App Movil\libro\libro\Bin\Debug\libro.build.appxrecipe
+D:\UNIVERSIDAD\App Movil\libro\libro\Bin\Debug\Properties\WMAppManifest.xml
+D:\UNIVERSIDAD\App Movil\libro\libro\obj\Debug\App.g.cs
+D:\UNIVERSIDAD\App Movil\libro\libro\obj\Debug\librosPagina.g.cs
+D:\UNIVERSIDAD\App Movil\libro\libro\obj\Debug\MainPage.g.cs
+D:\UNIVERSIDAD\App Movil\libro\libro\obj\Debug\libro.g.resources
+D:\UNIVERSIDAD\App Movil\libro\libro\obj\Debug\libro.Resources.AppResources.resources
+D:\UNIVERSIDAD\App Movil\libro\libro\obj\Debug\libro.csproj.GenerateResource.Cache
+D:\UNIVERSIDAD\App Movil\libro\libro\obj\Debug\libro.dll
+D:\UNIVERSIDAD\App Movil\libro\libro\obj\Debug\libro.pdb
+D:\UNIVERSIDAD\App Movil\libro\libro\obj\Debug\priconfig.xml
+D:\UNIVERSIDAD\App Movil\libro\libro\obj\Debug\priconfig.xml.intermediate
+D:\UNIVERSIDAD\App Movil\libro\libro\obj\Debug\layout.resfiles
+D:\UNIVERSIDAD\App Movil\libro\libro\obj\Debug\layout.resfiles.intermediate
+D:\UNIVERSIDAD\App Movil\libro\libro\obj\Debug\resources.resfiles
+D:\UNIVERSIDAD\App Movil\libro\libro\obj\Debug\resources.resfiles.intermediate
+D:\UNIVERSIDAD\App Movil\libro\libro\obj\Debug\pri.resfiles
+D:\UNIVERSIDAD\App Movil\libro\libro\obj\Debug\pri.resfiles.intermediate
+D:\UNIVERSIDAD\App Movil\libro\libro\obj\Debug\qualifiers.txt
+D:\UNIVERSIDAD\App Movil\libro\libro\obj\Debug\qualifiers.txt.intermediate
+D:\UNIVERSIDAD\App Movil\libro\libro\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\UNIVERSIDAD\App Movil\libro\libro\obj\Debug\ProjectArchitectures.txt
+D:\UNICAUCA\Noveno Semestre\Moviles\libro\libro\libro\Bin\Debug\Assets\ApplicationIcon.png
+D:\UNICAUCA\Noveno Semestre\Moviles\libro\libro\libro\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+D:\UNICAUCA\Noveno Semestre\Moviles\libro\libro\libro\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+D:\UNICAUCA\Noveno Semestre\Moviles\libro\libro\libro\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+D:\UNICAUCA\Noveno Semestre\Moviles\libro\libro\libro\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+D:\UNICAUCA\Noveno Semestre\Moviles\libro\libro\libro\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+D:\UNICAUCA\Noveno Semestre\Moviles\libro\libro\libro\Bin\Debug\libro.dll
+D:\UNICAUCA\Noveno Semestre\Moviles\libro\libro\libro\Bin\Debug\libro.pdb
+D:\UNICAUCA\Noveno Semestre\Moviles\libro\libro\libro\Bin\Debug\resources.pri
+D:\UNICAUCA\Noveno Semestre\Moviles\libro\libro\libro\Bin\Debug\AppxManifest.xml
+D:\UNICAUCA\Noveno Semestre\Moviles\libro\libro\libro\Bin\Debug\libro.build.appxrecipe
+D:\UNICAUCA\Noveno Semestre\Moviles\libro\libro\libro\Bin\Debug\Properties\WMAppManifest.xml
+D:\UNICAUCA\Noveno Semestre\Moviles\libro\libro\libro\obj\Debug\App.g.cs
+D:\UNICAUCA\Noveno Semestre\Moviles\libro\libro\libro\obj\Debug\librosPagina.g.cs
+D:\UNICAUCA\Noveno Semestre\Moviles\libro\libro\libro\obj\Debug\libro.g.resources
+D:\UNICAUCA\Noveno Semestre\Moviles\libro\libro\libro\obj\Debug\libro.Resources.AppResources.resources
+D:\UNICAUCA\Noveno Semestre\Moviles\libro\libro\libro\obj\Debug\libro.csproj.GenerateResource.Cache
+D:\UNICAUCA\Noveno Semestre\Moviles\libro\libro\libro\obj\Debug\libro.dll
+D:\UNICAUCA\Noveno Semestre\Moviles\libro\libro\libro\obj\Debug\libro.pdb
+D:\UNICAUCA\Noveno Semestre\Moviles\libro\libro\libro\obj\Debug\priconfig.xml
+D:\UNICAUCA\Noveno Semestre\Moviles\libro\libro\libro\obj\Debug\priconfig.xml.intermediate
+D:\UNICAUCA\Noveno Semestre\Moviles\libro\libro\libro\obj\Debug\layout.resfiles
+D:\UNICAUCA\Noveno Semestre\Moviles\libro\libro\libro\obj\Debug\layout.resfiles.intermediate
+D:\UNICAUCA\Noveno Semestre\Moviles\libro\libro\libro\obj\Debug\resources.resfiles
+D:\UNICAUCA\Noveno Semestre\Moviles\libro\libro\libro\obj\Debug\resources.resfiles.intermediate
+D:\UNICAUCA\Noveno Semestre\Moviles\libro\libro\libro\obj\Debug\pri.resfiles
+D:\UNICAUCA\Noveno Semestre\Moviles\libro\libro\libro\obj\Debug\pri.resfiles.intermediate
+D:\UNICAUCA\Noveno Semestre\Moviles\libro\libro\libro\obj\Debug\qualifiers.txt
+D:\UNICAUCA\Noveno Semestre\Moviles\libro\libro\libro\obj\Debug\qualifiers.txt.intermediate
+D:\UNICAUCA\Noveno Semestre\Moviles\libro\libro\libro\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\UNICAUCA\Noveno Semestre\Moviles\libro\libro\libro\obj\Debug\ProjectArchitectures.txt
+D:\UNICAUCA\Noveno Semestre\Moviles\libro\libro\libro\Bin\Debug\AppManifest.xaml
+D:\UNICAUCA\Noveno Semestre\Moviles\libro\libro\libro\Bin\Debug\libro_Debug_AnyCPU.xap
+D:\UNICAUCA\Noveno Semestre\Moviles\libro\libro\libro\obj\Debug\MDILProjectFiles.xml
+D:\UNICAUCA\Noveno Semestre\Moviles\libro\libro\libro\obj\Debug\XapCacheFile.xml
+D:\UNICAUCA\Noveno Semestre\Moviles\libro\libro\libro\obj\Debug\Libros.g.cs
+D:\UNICAUCA\Noveno Semestre\Moviles\libro\libro\libro\obj\Debug\Panoramas.g.cs

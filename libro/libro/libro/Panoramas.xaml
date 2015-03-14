@@ -1,0 +1,70 @@
+﻿<phone:PhoneApplicationPage
+    x:Class="libro.Panoramas"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:models="clr-namespace:libro.Models"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    mc:Ignorable="d"
+    shell:SystemTray.IsVisible="True">
+
+    <!--LayoutRoot es la cuadrícula raíz donde se coloca todo el contenido de la página-->
+    <Grid x:Name="LayoutRoot" Background="Transparent">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Grid.Resources>
+            <models:libros x:Key="dat"/>
+        </Grid.Resources>
+
+        <!--TitlePanel contiene el nombre de la aplicación y el título de la página-->
+        <StackPanel Grid.Row="0" Margin="12,17,0,28">
+            <TextBlock Style="{StaticResource PhoneTextNormalStyle}"/>
+            <TextBlock x:Name="nombre"/>
+        </StackPanel>
+
+        <!--ContentPanel. Colocar aquí el contenido adicional-->
+        <Grid x:Name="ContentPanel" Grid.Row="1" Margin="12,0,12,0">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*" />
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+            
+            <phone:Pivot>
+                <phone:PivotItem Header="imagen1">
+                    <Image x:Name="portada" Source=""></Image>
+                </phone:PivotItem>
+                <phone:PivotItem Header="imagen2" >
+                    <Image x:Name="contPortada" Source=""  ></Image>
+                </phone:PivotItem>
+                <phone:PivotItem Header="imagen3">
+                    <Image x:Name="adicional" Source=""></Image>
+                </phone:PivotItem>
+            </phone:Pivot>
+            <StackPanel Orientation="Vertical" 
+                         Grid.Row="1"   >
+                <TextBlock Text="Codigo:"/>
+                <TextBlock x:Name="codigo" Foreground="Green" />
+
+                <TextBlock Text="Autor:"/>
+                <TextBlock x:Name="autor" Foreground="Green" />
+
+                <TextBlock Text="Genero:"/>
+                <TextBlock x:Name="genero" Foreground="Green" 
+                         />
+                <TextBlock Text="Paginas:"/>
+                <TextBlock x:Name="paginas" Foreground="Green" 
+                        />
+            </StackPanel>
+
+        </Grid>
+    </Grid>
+
+</phone:PhoneApplicationPage>

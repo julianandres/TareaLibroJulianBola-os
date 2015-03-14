@@ -1,0 +1,24 @@
+﻿<Application
+    x:Class="libro.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:models = "clr-namespace:libro.Models">
+   
+
+    <!--Recursos de la aplicación-->
+    <Application.Resources>
+        <local:LocalizedStrings xmlns:local="clr-namespace:libro" x:Key="LocalizedStrings"/>
+        <models:libros x:Key="dato"/>
+        <models:Libro x:Name="sel" x:Key="select"/>
+    </Application.Resources>
+
+    <Application.ApplicationLifetimeObjects>
+        <!--Objeto requerido que controla los eventos de duración de la aplicación-->
+        <shell:PhoneApplicationService
+            Launching="Application_Launching" Closing="Application_Closing"
+            Activated="Application_Activated" Deactivated="Application_Deactivated"/>
+    </Application.ApplicationLifetimeObjects>
+
+</Application>
